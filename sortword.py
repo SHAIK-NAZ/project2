@@ -1,7 +1,7 @@
 # Program to sort alphabetically the words form a string provided by the user
 
 my_str = "WELCOME TO NAZ PROJECT"
-"
+
 # To take input from the user
 #my_str = input("Enter a string: ")
 
